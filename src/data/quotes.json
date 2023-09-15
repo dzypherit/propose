@@ -2,34 +2,34 @@
   "qoutes": [
     {
       "id": "Q2",
-      "text": "You have been a source of strength and support for me. I'm glad that you're a part of my life",
-      "image": "/images/image-03.webp"
+      "text": "Every year with you feels like a beautiful chapter of a fairy tale that I never want to end. Here’s to us and our incredible journey",
+      "image": "/images/image-01.jpg"
     },
     {
       "id": "Q3",
-      "text": "You make me smile so easily. Can you be there, to do it forever?",
-      "image": "/images/image-02.webp"
+      "text": "From the moment we said ‘I do,’ my world has been colored with the hues of your love.",
+      "image": "/images/image-03.jpg"
     },
     {
       "id": "Q4",
-      "text": "I was alone in life, but when you came into my life, you brought colours with you and painted my life with beautiful colours",
-      "image": "/images/image-01.webp"
+      "text": "With each passing year, our love becomes deeper and more unbreakable. Here’s to forever, my dearest wife.",
+      "image": "/images/image-04.jpg"
     },
     {
       "id": "Q5",
-      "text": "Your absence is stronger to me than the presence of thousands of other people",
-      "image": "/images/image-07.webp"
+      "text": "The years we’ve spent together are a testament to the strength of our love. I’m grateful for every moment by your side.",
+      "image": "/images/image-02.jpg"
     },
     {
       "id": "Q6",
-      "text": "I fell in love with you not for how you look, just for who you are",
-      "image": "/images/image-06.webp"
+      "text": "As we celebrate another year of togetherness, my heart is filled with gratitude for having you as my partner in life.",
+      "image": "/images/image-06.jpg"
     }
   ],
   "propose": {
     "id": "finished",
     "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. I love you",
-    "subtext": "That's all I will wait for your reply",
-    "image": "/images/image-04.webp"
+    "subtext": "Happy Anniversary My Lovely Wife",
+    "image": "/images/image-07.jpg"
   }
 }
