@@ -12,7 +12,7 @@ const Proposal = ({ className = '' }) => {
 
     const [texts, setTexts] = useState([]);
     const [currentText, setCurrentText] = useState({
-        image: '/images/image-05.png',
+        image: '/images/image-05.jpg',
         subtext: 'I want to tell you something',
     });
 

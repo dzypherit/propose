@@ -18,13 +18,13 @@ const Home = ({ className = '' }) => (
 
                         <ProposeForm className="hero_text-form mt-4 mt-md-5" />
                         <p className="hero_credit">
-                            developed by{' '}
+                            rebranded by{' '}
                             <a
-                                href="https://tonmoydeb.com"
+                                href="https://github.com/itsnalla"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
-                                @tonmoydeb
+                                @itsnalla
                             </a>
                         </p>
                     </div>
