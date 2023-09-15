@@ -12,7 +12,7 @@ const Proposal = ({ className = '' }) => {
 
     const [texts, setTexts] = useState([]);
     const [currentText, setCurrentText] = useState({
-        image: '/images/image-05.webp',
+        image: '/images/image-05.png',
         subtext: 'I want to tell you something',
     });
 
@@ -40,7 +40,7 @@ const Proposal = ({ className = '' }) => {
 
     // effects
     useEffect(() => {
-        document.title = `${person} - Be My Valentine`;
+        document.title = `${person} - Happy Anniversary`;
     }, [person]);
 
     // preload images
